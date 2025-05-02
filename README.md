@@ -22,6 +22,7 @@ Proyecto Final del Curso de C - PROTECSA
 - **main**: Archivo principal del proyecto
 - **headers**: Archivos de cabecera
 - **src**: Archivos fuente del proyecto
+- **productos**: Archivo de productos
 
 ### Banderas
 
