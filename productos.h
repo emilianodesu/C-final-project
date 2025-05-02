@@ -1,8 +1,17 @@
+/**
+ * @file productos.h
+ * @author JOYBOY
+ * @brief Funciones para manejar la estructura de productos
+ */
+
 #ifndef PRODUCTOS_H
 #define PRODUCTOS_H
 
 #include <stddef.h>
 
+/**
+ * @brief Lista ligada para manejar los productos
+ */
 typedef struct Producto {
     char nombre[100];
     float costo;

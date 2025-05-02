@@ -1,8 +1,17 @@
+/**
+ * @file usuario.h
+ * @author JOYBOY
+ * @brief Funciones para manejar la estructura de usuario
+ */
+
 #ifndef USUARIO_H
 #define USUARIO_H
 
 #include "productos.h"
 
+/**
+ * @brief Estructura para manejar la informacion del usuario
+ */
 typedef struct Usuario {
     char nombre[100];
     char numeroCelular[12];
