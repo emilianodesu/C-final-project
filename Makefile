@@ -11,7 +11,7 @@ EXECUTABLE = $(BIN_DIR)/tienda
 all: $(EXECUTABLE)
 
 # Compilación directa
-$(EXECUTABLE): $(SOURCES) include/*.h
+$(EXECUTABLE): $(SOURCES)
 	@mkdir -p $(BIN_DIR)
 	$(CC) $(CFLAGS) $^ -o $@
 
