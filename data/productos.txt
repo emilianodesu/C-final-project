@@ -1,0 +1,20 @@
+Arroz,20.00  
+Frijol,25.00  
+Azucar,18.00  
+Aceite,30.00  
+Leche,15.00  
+Atun,22.50  
+Sardinas,18.00  
+Cafe,28.00  
+Jabon,8.00  
+Shampoo,32.00  
+Pasta Dental,24.50  
+Galletas,12.50  
+Refresco,19.00  
+Jugo,12.00  
+Papel Higienico,45.00  
+Detergente,18.00  
+Cloro,10.00  
+Huevos,45.00  
+Tortillas,10.00  
+Cigarros,55.00
