@@ -1,0 +1,6 @@
+<map id="Usuario" name="Usuario">
+<area shape="rect" id="Node000001" title="Estructura para manejar la informacion del usuario." alt="" coords="9,96,75,123"/>
+<area shape="rect" id="Node000002" href="$struct_producto.html" title="Lista ligada para manejar los productos." alt="" coords="5,5,79,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,48,45,95,39,95,39,48"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="96,10,105,19,97,28,80,30,79,25,95,23,100,19,92,14"/>
+</map>

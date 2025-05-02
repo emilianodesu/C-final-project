@@ -1,0 +1,18 @@
+<map id="src/interfaz.c" name="src/interfaz.c">
+<area shape="rect" id="Node000001" title="Funciones para manejar la interfaz de usuario. Maneja la lista de productos y el carrito de compras...." alt="" coords="136,5,233,32"/>
+<area shape="rect" id="Node000002" href="$interfaz_8h.html" title="Esta interfaz separa la gestion productos del usuario Esta interfaz permite al usuario ver los produc..." alt="" coords="12,80,88,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,35,88,75,86,70,160,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="112,80,172,107"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="180,34,159,68,155,65,175,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="196,80,259,107"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="194,31,215,65,210,68,190,34"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="283,80,348,107"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="209,30,280,70,278,74,206,35"/>
+<area shape="rect" id="Node000003" href="$productos_8h.html" title="Funciones para manejar la estructura de productos." alt="" coords="5,229,95,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="49,108,42,141,41,181,46,214,41,215,35,181,37,140,44,106"/>
+<area shape="rect" id="Node000005" href="$usuario_8h.html" title="Funciones para manejar la estructura de usuario." alt="" coords="50,155,124,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="59,106,76,140,72,142,54,108"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="16,304,84,331"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="53,257,53,288,47,288,47,257"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="83,183,66,217,61,214,78,181"/>
+</map>

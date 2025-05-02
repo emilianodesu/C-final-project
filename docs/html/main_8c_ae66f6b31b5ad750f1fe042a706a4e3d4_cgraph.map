@@ -1,0 +1,15 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,55,133"/>
+<area shape="rect" id="Node000002" href="$productos_8c.html#aebcb04761b68107f83d4da713c10d8b0" title="Leer el archivo de texto con los productos y carga los productos en una lista ligada." alt="" coords="121,5,237,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="39,105,65,73,101,42,110,37,113,41,104,46,69,77,43,108"/>
+<area shape="rect" id="Node000003" href="$productos_8c.html#a6b6b3dafde24b3fa77b9d4d1c263d931" title="Libera la memoria de la lista de productos." alt="" coords="121,56,236,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="54,109,102,92,121,86,123,91,104,97,56,114"/>
+<area shape="rect" id="Node000004" href="$usuario_8c.html#a354de353898b536885535f25bcecd3cc" title="Muestra el contenido del carrito de compras y el total a pagar." alt="" coords="140,107,218,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="55,117,124,117,124,123,55,123"/>
+<area shape="rect" id="Node000005" href="$usuario_8c.html#a8f8ab6511c6829e777cec58d5510dd4b" title="Muestra la informacion del usuario." alt="" coords="103,157,255,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="56,126,104,143,123,149,121,154,102,148,54,131"/>
+<area shape="rect" id="Node000006" href="$interfaz_8c.html#a355bef5df125ddbaf1b10788d3b0872f" title="Muestra la lista de productos y permite navegar y agregar al carrito." alt="" coords="130,208,228,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="43,132,69,163,104,194,116,201,114,205,101,198,65,167,39,135"/>
+<area shape="rect" id="Node000007" href="$usuario_8c.html#ab3e5bfac688710f3e53051281c399db4" title="Agrega un producto al carrito del usuario y actualiza el total a pagar Crea un nuevo nodo para el pro..." alt="" coords="303,208,418,235"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="229,219,288,219,288,224,229,224"/>
+</map>

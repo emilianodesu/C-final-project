@@ -1,0 +1,13 @@
+<map id="src/productos.c" name="src/productos.c">
+<area shape="rect" id="Node000001" title="Funciones para manejar la lista de productos. Carga los productos desde un archivo de texto." alt="" coords="136,5,247,32"/>
+<area shape="rect" id="Node000002" href="$productos_8h.html" title="Funciones para manejar la estructura de productos." alt="" coords="5,80,95,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,35,89,75,87,70,166,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="118,80,179,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,34,166,68,161,65,182,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="202,80,266,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="201,31,221,65,217,68,196,34"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="290,80,354,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="215,30,287,70,284,74,213,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="16,155,84,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="53,107,53,139,47,139,47,107"/>
+</map>

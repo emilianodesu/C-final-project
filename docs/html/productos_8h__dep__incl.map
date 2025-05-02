@@ -1,0 +1,18 @@
+<map id="include/productos.h" name="include/productos.h">
+<area shape="rect" id="Node000001" title="Funciones para manejar la estructura de productos." alt="" coords="144,5,278,32"/>
+<area shape="rect" id="Node000002" href="$interfaz_8h.html" title="Esta interfaz separa la gestion productos del usuario Esta interfaz permite al usuario ver los produc..." alt="" coords="5,155,126,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,44,146,82,78,156,74,153,142,78,183,41"/>
+<area shape="rect" id="Node000004" href="$main_8c.html" title="EL MAIN =D." alt="" coords="130,229,212,256"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="202,47,191,81,178,165,174,229,168,229,172,164,186,79,197,46"/>
+<area shape="rect" id="Node000005" href="$usuario_8h.html" title="Funciones para manejar la estructura de usuario." alt="" coords="200,80,320,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="230,44,254,78,249,81,226,47"/>
+<area shape="rect" id="Node000007" href="$productos_8c.html" title="Funciones para manejar la lista de productos. Carga los productos desde un archivo de texto." alt="" coords="344,80,456,107"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="259,35,368,77,366,82,257,40"/>
+<area shape="rect" id="Node000003" href="$interfaz_8c.html" title="Funciones para manejar la interfaz de usuario. Maneja la lista de productos y el carrito de compras...." alt="" coords="9,229,106,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,197,62,229,56,229,60,196"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="98,188,154,226,151,231,95,193"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="213,115,101,157,99,152,211,110"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="247,121,181,230,176,227,242,119"/>
+<area shape="rect" id="Node000006" href="$usuario_8c.html" title="Funciones para manejar la estructura de usuario." alt="" coords="251,155,347,181"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="276,119,295,153,290,156,272,122"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="include/interfaz.h" name="include/interfaz.h">
+<area shape="rect" id="Node000001" title="Esta interfaz separa la gestion productos del usuario Esta interfaz permite al usuario ver los produc..." alt="" coords="5,5,126,32"/>
+<area shape="rect" id="Node000002" href="$productos_8h.html" title="Funciones para manejar la estructura de productos." alt="" coords="21,155,110,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,33,58,66,56,107,62,139,56,140,51,107,52,65,59,32"/>
+<area shape="rect" id="Node000004" href="$usuario_8h.html" title="Funciones para manejar la estructura de usuario." alt="" coords="66,80,140,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="74,31,92,65,87,68,70,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="31,229,100,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,182,68,214,63,214,63,182"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="99,108,81,142,76,140,94,106"/>
+</map>

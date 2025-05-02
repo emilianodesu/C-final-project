@@ -1,0 +1,7 @@
+<map id="include/interfaz.h" name="include/interfaz.h">
+<area shape="rect" id="Node000001" title="Esta interfaz separa la gestion productos del usuario Esta interfaz permite al usuario ver los produc..." alt="" coords="50,5,170,32"/>
+<area shape="rect" id="Node000002" href="$interfaz_8c.html" title="Funciones para manejar la interfaz de usuario. Maneja la lista de productos y el carrito de compras...." alt="" coords="5,80,103,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,46,66,81,62,78,89,43"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title="EL MAIN =D." alt="" coords="126,80,208,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,43,160,78,155,81,127,46"/>
+</map>
