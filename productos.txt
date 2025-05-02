@@ -1,0 +1,5 @@
+Arroz,20.00
+Frijol,25.00
+Azucar,18.00
+Aceite,30.00
+Leche,15.00
