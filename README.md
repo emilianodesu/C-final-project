@@ -19,6 +19,7 @@ Proyecto Final del Curso de C - PROTECSA
 
 - **readme**: README.md
 - **gitignore**: .gitignore
+- **makefile**: makefile (para compilar el proyecto automáticamente)
 - **main**: Archivo principal del proyecto
 - **headers**: Archivos de cabecera
 - **src**: Archivos fuente del proyecto
@@ -38,3 +39,17 @@ Proyecto Final del Curso de C - PROTECSA
 - **Gerardo**: Luis Gerardo Arellano Cortés
 
 ## Instrucciones de uso
+
+- Ejecuta el siguiente comando para compilar el proyecto (asegúrate de estar en la carpeta raiz del proyecto):
+
+```bash
+make
+```
+
+- Para ejecutar el proyecto, utiliza el siguiente comando:
+
+```bash
+make run
+```
+
+Listo=D
