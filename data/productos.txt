@@ -1,20 +1,20 @@
-Arroz,20.00  
-Frijol,25.00  
-Azucar,18.00  
-Aceite,30.00  
-Leche,15.00  
-Atun,22.50  
-Sardinas,18.00  
-Cafe,28.00  
-Jabon,8.00  
-Shampoo,32.00  
-Pasta Dental,24.50  
-Galletas,12.50  
-Refresco,19.00  
-Jugo,12.00  
-Papel Higienico,45.00  
-Detergente,18.00  
-Cloro,10.00  
-Huevos,45.00  
-Tortillas,10.00  
-Cigarros,55.00
+Sombrero de Paja,450.00  
+Gomu Gomu no Mi,2500.00  
+Wado Ichimonji,1800.00  
+Den Den Mushi,150.00  
+Bounty Poster Luffy,75.00  
+Clima Tact,600.00  
+Rumble Ball,120.00  
+Vivre Card,300.00  
+Botella de Sake,85.00  
+Mapa Grand Line,200.00  
+Bandera Pirata,350.00  
+Gorra Marine,400.00  
+Dial de fuego,999.00  
+Dial de impacto,1220.00  
+Guitarra de Brook,700.00  
+Gafas de Corazón,180.00  
+Recetario,150.00  
+Sombrero de Ace,280.00  
+Miniatura Thousand Sunny,800.00  
+Capa Schichibukai,900.00  
